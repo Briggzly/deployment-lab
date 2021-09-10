@@ -1,0 +1,37 @@
+#mainBtn {
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin: auto;
+}
+
+#mainC {
+    display: grid;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 100%;
+    background-color: blueviolet;
+    border-radius: 7px;
+    text-align: center;
+}
+
+#nature {
+    height: 600px;
+    width: 100%;
+    justify-content: center;
+    border-radius: 7px;
+}
+
+#logo {
+    text-align: center;
+    font-size: 25px;
+    justify-content: center;
+    text-decoration: none;
+    font-family: fantasy;
+    color: white;
+}
